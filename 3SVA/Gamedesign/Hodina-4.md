@@ -84,8 +84,7 @@ Technologie se neustále vyvíjí a otevírá nové možnosti pro herní vývoj.
 
 1. **Herní platformy** se liší podle technických možností, herních zážitků a cílového publika.
 2. **PC, konzole a mobilní zařízení** představují tři hlavní typy platforem, každá s vlastními výhodami a nevýhodami.
-3. **Herní engine** je klíčovým nástrojem pro tvorbu her a výběr správného enginu může ovlivnit celý vývoj
-
-ový proces.
+3. **Herní engine** je klíčovým nástrojem pro tvorbu her a výběr správného enginu může ovlivnit celý vývojový proces.
 4. **Budoucí technologie**, jako jsou cloud gaming a virtuální realita, rozšiřují možnosti, jak hráči mohou interagovat s hrami, a přinášejí nové výzvy i příležitosti pro vývojáře.
 5. **Lokalizace a respekt k kulturním odlišnostem** jsou klíčové při vývoji her pro globální publikum, aby byla hra přístupná co nejširšímu okruhu hráčů.
+

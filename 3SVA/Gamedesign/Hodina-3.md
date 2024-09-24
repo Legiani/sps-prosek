@@ -95,5 +95,5 @@ Jedním z klíčových aspektů průzkumu trhu je identifikace cílového publik
 1. Průzkum trhu je klíčový nástroj pro herní designéry, protože jim umožňuje lépe pochopit, co hráči chtějí a co funguje na trhu.
 2. Analýza konkurence pomáhá identifikovat silné a slabé stránky jiných her a vytvořit hru, která se odlišuje.
 3. Identifikace cílového publika je zásadní pro úspěch hry, protože zajišťuje, že design hry odpovídá potřebám a očekáváním hráčů.
-4. Lokalizace a respektování kulturních rozdílů jsou nezbytné pro úspěšnou globální distribuci her.
+4. Lokalizace a respektování kulturních rozdílů jsou nezbytné pro úspěšnou globální distribuci her, pokud je hra uzce cílená muže NErespektování využít ve svuj prospěch.
 5. Herní průzkum trhu by měl být průběžný proces, který pokračuje i po vydání hry, aby se zajistilo, že hra zůstane relevantní a úspěšná.
