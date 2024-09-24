@@ -9,9 +9,9 @@
 ## **Hodnocení:**
 - **Počet známek za pololetí při 1h týdně:** 
 - Tři známky za pololetí 
-	- znamka 50-60 % 
-	- známka 30-40 %. 
-	- poslední známka projekt (80-90 %)
+	- znamka 15 % 
+	- známka 30 %
+	- známka projekt 60 %
 
  **Odevzdání projektu:** Projekt musí být odevzdán do data uvedeného v zadání, nejpozději do 14:00. Práce odevzdané po termínu jsou hodnoceny známkou 5. Studenti mají možnost opravného odevzdání do 7 dnů po původním termínu. Opakuje se do odevzdání.
 

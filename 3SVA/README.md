@@ -1,3 +1,22 @@
+## Classroom
+
+Classrom: https://classroom.google.com/c/NzExNzgxMzc4ODk4?cjc=sdk67kv
+
+Kod: sdk67kv
+
+
+## Známky 
+
+- **Počet známek za pololetí při 1h týdně:** 
+- Tři známky za pololetí 
+	- znamka 15 % 
+	- známka 30 %
+	- známka projekt 60 %
+
+
+## Přehled hodin
+
+
 | Číslo hodiny | Datum      | Stav          | Okruh                          |
 |--------------|------------|---------------|--------------------------------|
 | 1            | 2024-09-03 | Vyučující den | Úvodní hodina                  |

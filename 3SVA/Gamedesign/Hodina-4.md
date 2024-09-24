@@ -89,7 +89,3 @@ Technologie se neustále vyvíjí a otevírá nové možnosti pro herní vývoj.
 ový proces.
 4. **Budoucí technologie**, jako jsou cloud gaming a virtuální realita, rozšiřují možnosti, jak hráči mohou interagovat s hrami, a přinášejí nové výzvy i příležitosti pro vývojáře.
 5. **Lokalizace a respekt k kulturním odlišnostem** jsou klíčové při vývoji her pro globální publikum, aby byla hra přístupná co nejširšímu okruhu hráčů.
-
----
-
-Tento přehled poskytuje studentům základní informace o technologiích a platformách, které jsou klíčové pro vývoj her.
